@@ -18,4 +18,4 @@ To connect the app to the database files, follow these instructions:
 
 - Refresh your databases, now you can access the FormationPlus DB
 
-- Run Test Softia.exe
+- Double click the Test Softia.exe to run it
