@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Test_Softia\Test Softia\Test Softia\obj\Debug\Test Softia.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Test_Softia\Test Softia\Test Softia\obj\Debug\Test_Softia.Properties.Resources.resources
+C:\Users\User\Desktop\Test_Softia\Test Softia\Test Softia\obj\Debug\Test Softia.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Test_Softia\Test Softia\Test Softia\obj\Debug\Test Softia.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Test_Softia\Test Softia\Test Softia\bin\Debug\Test Softia.exe.config
+C:\Users\User\Desktop\Test_Softia\Test Softia\Test Softia\bin\Debug\Test Softia.exe
+C:\Users\User\Desktop\Test_Softia\Test Softia\Test Softia\bin\Debug\Test Softia.pdb
+C:\Users\User\Desktop\Test_Softia\Test Softia\Test Softia\obj\Debug\Test Softia.exe
+C:\Users\User\Desktop\Test_Softia\Test Softia\Test Softia\obj\Debug\Test Softia.pdb
+C:\Users\User\Desktop\Test_Softia\Test Softia\Test Softia\obj\Debug\Test_Softia.Form1.resources
