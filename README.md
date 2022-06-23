@@ -16,6 +16,6 @@ To connect the app to the database files, follow these instructions:
 
 - When you clicked Attach, a window will open, In this just click on Add button, select the database .mdf and .ldf files and add it
 
-- Refresh your databases, now you can the FormationPlus DB
+- Refresh your databases, now you can access the FormationPlus DB
 
 - Run Test Softia.exe
