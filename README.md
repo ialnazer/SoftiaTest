@@ -8,7 +8,7 @@ To connect the app to the database files, follow these instructions:
 
 - Install [Microsoft SQL Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
-- Copy or cut and paste both the .mdf and .ldf database files in to the MS SQL Server path location on your system: ThisPC/C:/Program Files/Microsoft SQL Server/yourSQLExpressServer/MSSQL/DATA
+- Copy or cut and paste both the .mdf and .ldf database files in to the MS SQL Server path location on your system: ThisPC/C:/Program Files/Microsoft SQL Server/YourSQLExpressServerName/MSSQL/DATA
 
 - Open SQL Server Managment Studio, it will suggest a connection to the SQL Express Server, click connect
 
