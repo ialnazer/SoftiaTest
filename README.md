@@ -1,8 +1,24 @@
 # FormationPlus
 
-In this Repo, you can find the source code of this windows form application with database files and a .exe file that is ready to run.
+## General
 
-To connect the app to the database files, follow these instructions:
+In this Repo, you can find the source code of this application with database files and a .exe file that is ready to run.
+
+- Application: Windows Form App, C#
+
+- DB: Microsoft SQL
+
+## Functionality
+
+Access the students in the DB, prepare their certifications based on their courses and add these certifications to the DB.
+
+![main](https://res.cloudinary.com/ddjb3qdew/image/upload/v1658138473/Softia_WinForm_uzt2zt.png)
+
+## Setup
+
+Follow these instructions:
+
+**1- Connect your machine to the database files:**
 
 - Install [Microsoft SQL Server Managment Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 
@@ -17,5 +33,7 @@ To connect the app to the database files, follow these instructions:
 - When you clicked Attach, a window will open, In this just click on Add button, select the database .mdf and .ldf files and add it
 
 - Refresh your databases, now you can access the FormationPlus DB
+
+**2- Run the App:**
 
 - Double click the Test Softia.exe to run it
